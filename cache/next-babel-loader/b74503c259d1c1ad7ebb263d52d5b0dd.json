@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport Layout from '../../components/layout';\nexport default function Help() {\n  return /*#__PURE__*/_jsx(Layout, {\n    children: /*#__PURE__*/_jsx(\"h1\", {\n      children: \"About Us\"\n    })\n  });\n}","map":null,"metadata":{},"sourceType":"module"}
